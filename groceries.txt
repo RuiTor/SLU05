@@ -3,3 +3,4 @@ tofu
 bacon
 beans
 butter
+eggs
