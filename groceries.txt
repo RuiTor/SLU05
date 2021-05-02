@@ -4,3 +4,4 @@ bacon
 beans
 butter
 eggs
+chips
